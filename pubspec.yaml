@@ -1,0 +1,11 @@
+name: DartCoffeeShop
+description: A sample coffee shop application connecting to dropwizard
+version: 0.0.1
+dependencies:
+  angular: ">=1.0.0 <2.0.0"
+  browser: any
+  js: any
+dev_dependencies:
+  unittest: any
+transformers:
+- angular
